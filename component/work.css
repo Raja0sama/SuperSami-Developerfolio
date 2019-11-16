@@ -1,0 +1,74 @@
+.jumbotron.text-center.A1 > h1 {
+    color: rgb(1,1,1);
+    margin: -13px;
+    margin-top: -9px;
+    font-size: 59px;
+}
+
+.jumbotron.text-center.A1 {
+    background-color: #ffffff;
+    padding-bottom: 60px;
+    margin-bottom: 0px;
+}
+
+.A2 {
+    color: rgb(234,48,48);
+}
+
+.A3 {
+    color: rgb(0,0,0);
+    font-size: 35px;
+    font-family: Montserrat, sans-serif;
+    margin-right: 1px;
+}
+
+.row.A4 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.col-md-4.A5 {
+    background: linear-gradient(0deg,#000000,rgba(0,0,0,0.7)),url('/static/img/mockupworld-working-on-macbook.png?h=cd23bd6d2c5fb9c951ddd21f54b99993');
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.text-center {
+}
+
+.A6 {
+    color: rgb(159,55,54);
+}
+
+.col-md-4.A7 {
+    background: linear-gradient(0deg,#000000,rgba(177,63,63,0.8)),url('/static/img/0_pemH-XsqF5BFiiVm.jpg?h=984692c116cddf6476b2039934d42b9c');
+    background-size: cover;
+/*background: linear-gradient(0deg,#000000,rgba(0,0,0,0.7)),url('static/img/mockupworld-working-on-macbook.png?h=cd23bd6d2c5fb9c951ddd21f54b99993');*//*background-size: cover;*/
+    padding: 0px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.A8 {
+    color: rgb(255,255,255);
+}
+
+.col-md-4.A9 {
+    background: linear-gradient(0deg,#000000,rgba(0,0,0,0.7)),url('/static/img/simple-apple-device-mockups-sketch-library.jpg?h=d47f8f4acc3fce6961549605c9520750');
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.text-center.A10 {
+}
+
+.A20 {
+    color: rgb(144,55,54);
+}

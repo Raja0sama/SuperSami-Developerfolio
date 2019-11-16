@@ -1,0 +1,29 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/webpack-asset-relocator-loader": "^0.4.5",
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "firebase": "^5.11.1",
+    "next": "^9.0.0",
+    "next-nprogress": "^1.4.0",
+    "next-seo": "^1.11.2",
+    "nprogress": "^0.2.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-youtube": "^7.9.0"
+  }
+}

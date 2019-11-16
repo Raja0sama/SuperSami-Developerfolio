@@ -1,0 +1,26 @@
+.mastheadss{
+    background: linear-gradient(0deg,#000000,rgba(0,0,0,0.3)),
+    url('/static/img/BG.jpg');
+    background-size: cover;
+    opacity: 1;filter: blur(0px) brightness(99%);
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 200px 0;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    background-size: cover;
+}
+.Covimg{
+    width: 192px !important;
+    filter: blur(0px) brightness(99%) contrast(165%) grayscale(0%) hue-rotate(0deg) invert(0%) saturate(96%) sepia(0%);
+
+}
+.CovH1{
+    font-family: Montserrat, sans-serif;
+    font-size: 57px !important;
+}
+.CovH1 span{
+    color: rgb(177,63,63);
+}
